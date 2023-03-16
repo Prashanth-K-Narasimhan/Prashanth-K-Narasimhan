@@ -5,6 +5,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=ngxbac&show_icons=true&count_private=true&hide=prs&theme=onedark)
+![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=Prashanth-K-Narasimhan&show_icons=true&count_private=true&hide=prs&theme=onedark)
 [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/cleardusk/cleardusk@output/github-contribution-grid-snake.svg)](https://github.com/Prashanth-K-Narasimhan)
 
